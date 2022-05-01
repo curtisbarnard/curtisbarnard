@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @curtisbarnard
-- 👀 I’m interested in hiking, photography, snowboarding, graphic design, web development and project management.
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on projects looking to make the world a better place, environmentally or socially
+Hello! My name is Curtis and I'm a software engineer. I have a background in manufacturing project management and a passion for systems. This evolved into a desire to build amazing products in the digital world. I take inspiration from nature to develop elegant, efficient and resilient systems. My goal is to work with teams of diverse, passionate people making positive impacts on our environment/community.
 
 <!---
 curtisbarnard/curtisbarnard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
