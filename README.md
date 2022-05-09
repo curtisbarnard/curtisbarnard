@@ -1,4 +1,4 @@
-![1500x500](https://user-images.githubusercontent.com/100104319/166337980-88b3b73c-4a88-4b12-a717-99be8a970034.jpg)
+![Group 3](https://user-images.githubusercontent.com/100104319/167516139-4e9fde3a-ca05-42c8-9a8c-9d97e751cd97.png)
 
 # 👋 Hello! My name is Curtis...
 
@@ -37,6 +37,8 @@ You can click the Preview link to take a look at your changes.
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=curtisbarnard&show_icons=true&locale=en&layout=compact" alt="curtisbarnard" /></br>
+
 <img src="https://github-readme-stats.vercel.app/api?username=curtisbarnard&show_icons=true&locale=en" alt="curtisbarnard" /></br>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=curtisbarnard&" alt="curtisbarnard" /></br>
 
