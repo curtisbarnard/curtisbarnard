@@ -1,4 +1,4 @@
-![Group 3](https://user-images.githubusercontent.com/100104319/167516139-4e9fde3a-ca05-42c8-9a8c-9d97e751cd97.png)
+![Group 3 (1)](https://user-images.githubusercontent.com/100104319/167516339-f3782b06-2db2-4ba4-999e-35e04b3444c5.png)
 
 # 👋 Hello! My name is Curtis...
 
