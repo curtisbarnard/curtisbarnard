@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👨‍💻 To see my favorite projects visit [https://www.curtisbarnard.com/](https://www.curtisbarnard.com/)
 
-- 📝 I regularly write articles on [https://hashnode.com/@oregoncurtis](https://hashnode.com/@oregoncurtis)
+- 📝 I regularly write articles on [https://curtisbarnard.hashnode.dev/](https://curtisbarnard.hashnode.dev/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, and Hiking**
 
