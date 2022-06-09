@@ -24,22 +24,27 @@ I'm a creative software engineer with a passion for systems. I have a BSME degre
 <br>
 <h2 align="center">🛠 Languages and Tools</h2>
 <div align="center">
-<a href="https://www.11ty.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/curtisbarnard/curtisbarnard/blob/main/svg-icons/11ty.svg" alt="eleventy" width="5%" height="36px"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/curtisbarnard/curtisbarnard/blob/main/svg-icons/css3.svg" alt="css3" width="5%" height="36px"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/curtisbarnard/curtisbarnard/blob/main/svg-icons/html5.svg" alt="html5" width="5%" height="36px"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/curtisbarnard/curtisbarnard/blob/main/svg-icons/css3.svg" alt="css3" width="10%" height="36px"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/curtisbarnard/curtisbarnard/blob/main/svg-icons/javascript.svg" alt="javascript" width="5%" height="36px"/> </a>
+<br>
+<br>
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://github.com/curtisbarnard/curtisbarnard/blob/main/svg-icons/sass.svg" alt="sass" width="5%" height="36px"/> </a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/curtisbarnard/curtisbarnard/blob/main/svg-icons/tailwind.svg" alt="tailwind" width="5%" height="36px"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/curtisbarnard/curtisbarnard/blob/main/svg-icons/react.svg" alt="react" width="5%" height="36px"/> </a>
 <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/curtisbarnard/curtisbarnard/blob/main/svg-icons/d3.svg" alt="d3js" width="5%" height="36px"/> </a>
+<br>
+<br> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/curtisbarnard/curtisbarnard/blob/main/svg-icons/node.svg" alt="nodejs" width="5%" height="36px"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/curtisbarnard/curtisbarnard/blob/main/svg-icons/express.svg" alt="express" width="5%" height="36px"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/curtisbarnard/curtisbarnard/blob/main/svg-icons/mongodb.svg" alt="mongodb" width="5%" height="36px"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/curtisbarnard/curtisbarnard/blob/main/svg-icons/postgresql.svg" alt="postgresql" width="5%" height="36px"/> </a> 
+<br>
+<br> 
+<a href="https://www.11ty.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/curtisbarnard/curtisbarnard/blob/main/svg-icons/11ty.svg" alt="eleventy" width="5%" height="36px"/></a>
+<a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/curtisbarnard/curtisbarnard/blob/main/svg-icons/jekyll.svg" alt="jekyll" width="5%" height="36px"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/curtisbarnard/curtisbarnard/blob/main/svg-icons/figma.svg" alt="figma" width="5%" height="36px"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/curtisbarnard/curtisbarnard/blob/main/svg-icons/git.svg" alt="git" width="5%" height="36px"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/curtisbarnard/curtisbarnard/blob/main/svg-icons/html5.svg" alt="html5" width="5%" height="36px"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/curtisbarnard/curtisbarnard/blob/main/svg-icons/javascript.svg" alt="javascript" width="5%" height="36px"/> </a>
-  
-<a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/curtisbarnard/curtisbarnard/blob/main/svg-icons/jekyll.svg" alt="jekyll" width="5%" height="36px"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/curtisbarnard/curtisbarnard/blob/main/svg-icons/mongodb.svg" alt="mongodb" width="5%" height="36px"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/curtisbarnard/curtisbarnard/blob/main/svg-icons/node.svg" alt="nodejs" width="5%" height="36px"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/curtisbarnard/curtisbarnard/blob/main/svg-icons/postgresql.svg" alt="postgresql" width="5%" height="36px"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/curtisbarnard/curtisbarnard/blob/main/svg-icons/react.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://github.com/curtisbarnard/curtisbarnard/blob/main/svg-icons/sass.svg" alt="sass" width="5%" height="36px"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/curtisbarnard/curtisbarnard/blob/main/svg-icons/tailwind.svg" alt="tailwind" width="5%" height="36px"/> </a> 
 </div>
 <br>
 <br>
