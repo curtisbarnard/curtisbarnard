@@ -6,11 +6,9 @@ I'm a creative software engineer with a passion for systems. I have a BSME degre
 
 - 🔭 I’m currently working on [onsenDB](https://github.com/curtisbarnard/onsenDB)
 
-- 🌱 I’m currently learning **Node.js**
-
 - 👨‍💻 To see my favorite projects visit [https://www.curtisbarnard.com/](https://www.curtisbarnard.com/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, and Hiking**
+- 💬 Ask me about **🚶‍♂️ Hiking, 🍺 craft beer or my love of 🚅 trains.**
 
 - ⚡ Fun fact: **My favorite morning snack is onigiri 🍙**
 <br>
